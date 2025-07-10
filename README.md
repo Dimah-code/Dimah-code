@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there 👋
 
 ```python
 #!/usr/bin/python
@@ -42,16 +42,6 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-
-**Tools and Services:**
-
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![Ubuntu](https://img.shields.io/badge/Distro-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
-![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
-![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
-![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
 ## &#x1f4c8; GitHub Stats
 
