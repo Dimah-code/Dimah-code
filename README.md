@@ -1,10 +1,6 @@
 # Hi there 👋
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class SoftwareEngineer:
 
     def __init__(self):
@@ -29,8 +25,6 @@ me.say_hi()
 ![Ubuntu](https://img.shields.io/badge/Distro-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![Vim](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=jetbrains&logoColor=white&color=6aa6f8)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 ![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Terminal](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=6aa6f8)
@@ -38,11 +32,10 @@ me.say_hi()
 
 **Programming Languages:**
 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-
 
 ## &#x1f4c8; GitHub Stats
 
